@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # === Config ===
-COOKIES_FILE = "cookies_deepsolo297699.json"
+COOKIES_FILE = "cookies_*******.json"
 SETTINGS_FILE = "settings.yaml"
 DEFAULT_SINCE = "2023-01-01"
 DEFAULT_UNTIL = "2025-01-01"
