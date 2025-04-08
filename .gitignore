@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+__pycache__/
+
+# Jupyter Notebooks (and checkpoint files)
+*.ipynb
+.ipynb_checkpoints/
+
+# JSON files
+*.json
+
+# Log files
+*.log
+
+# Text files
+*.txt
+
+# Data folder (including CSV files and anything inside)
+data/
+
+*.ini
